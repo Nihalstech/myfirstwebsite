@@ -28,6 +28,6 @@ a{
   	font-weight: 500;
   	font-style: italic;
 }
-#btn : hover {
+a: hover {
         background-color: blue;
 }
