@@ -29,5 +29,5 @@ a{
   	font-style: italic;
 }
 a: hover {
-        background-color: blue;
+        background-color: red;
 }
