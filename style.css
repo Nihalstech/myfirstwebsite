@@ -3,7 +3,21 @@
 
 body{
   font-family: 'Ubuntu', sans-serif; 
-  background-image: linear-gradient(-57deg, #4fd1c5, #48bb78);
+  background-size: 800% 800%;
+  background-image: linear-gradient(-57deg, #4fd1c5, #48bb78, #2b6cb0);
+  animation: nihalstech 12s infinite ease alternate-reverse;
+}
+
+@keyframes nihalstech {
+  0% {
+  	background-position: 0% 50%;
+  }
+  50% {
+  	background-position: 50% 100%;
+  }
+  100% {
+  	background-position: 100% 50%;
+  }
 }
 
 #image {
