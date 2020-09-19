@@ -3,6 +3,10 @@
    width: 70px;
    border-radius: 100%;
 }
-#text {
-  color: Black ;
+#header{
+	background-image: linear-gradient(144deg, #4fd1c5, #48bb78);
+}
+
+a{
+ 	cursor: pointer;
 }
