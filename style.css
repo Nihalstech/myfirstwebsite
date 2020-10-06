@@ -57,12 +57,14 @@ a{
    font-family: 'Ubuntu', sans-serif;
    padding: 6px;
    margin: 195px;
-   color: black;
+   color: white;
    background-color: red;
+   border: 2px solid red
    border-radius: 3px;
+   transition: .8s
 }
 
 .btn2:hover {
-  background-color: #718096;
-  color: #DD6B20;
+  background-color: white;
+  color: black;
 }
