@@ -53,18 +53,16 @@ a{
 }
 
 .subscribe {
-   text-decoration: none;
-   font-family: 'Ubuntu', sans-serif;
-   padding: 6px;
-   margin: 195px;
-   color: white;
-   background-color: red;
-   border: 2px solid red
-   border-radius: 3px;
-   transition: .8s
+  background-color: white;
+  color: red;
+  padding: 6px 20px;
+  font-size: 30px;
+  border: 2px solid red;
+  border-radius: 10px;
+  transition: .8s;
 }
 
-.subscribe:hover {
-  background-color: white;
-  color: black;
+.subscribe:hover{
+  background-color: red; 
+  color: white;
 }
