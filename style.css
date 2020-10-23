@@ -53,6 +53,7 @@ a{
 }
 
 .subscribe {
+  overflow: auto;
   background-color: white;
   color: red;
   padding: 6px 20px;
