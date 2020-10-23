@@ -51,7 +51,7 @@ body{
 .subscribe {
   text-decoration: none;
   background-color: red;
-  color: red;
+  color: white;
   padding: 6px 20px;
   font-size: 30px;
   border: 2px solid red;
@@ -61,5 +61,5 @@ body{
 
 .subscribe:hover{
   background-color: white; 
-  color: white;
+  color: red;
 }
